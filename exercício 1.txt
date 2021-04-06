@@ -1,0 +1,9 @@
+1)
+  a) pôr uma imagem de fundo cujo nome é imagem;
+  b) alinhamento da imagem à esquerda;
+  c) o rebordo da iamgem é de 6;
+  d) fundo da página laranja;
+  e) letra azul;
+  f) tamanho da letra 12;
+  g) tamanho da frase "FRASE";
+  h) texto subscrito;
